@@ -1,0 +1,6 @@
+{
+  "name": "Terralink · SDG Climate Action & Community Eco-Tracker",
+  "description": "Individual carbon footprint tracking, local transit system integration, sustainable local alternatives, and gamified community leaderboards for collective climate action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
